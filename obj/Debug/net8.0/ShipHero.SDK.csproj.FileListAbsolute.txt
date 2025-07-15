@@ -1,0 +1,5 @@
+C:\Vault\Development\ShipHero\obj\Debug\net8.0\ShipHero.SDK.csproj.AssemblyReference.cache
+C:\Vault\Development\ShipHero\obj\Debug\net8.0\ShipHero.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vault\Development\ShipHero\obj\Debug\net8.0\ShipHero.SDK.AssemblyInfoInputs.cache
+C:\Vault\Development\ShipHero\obj\Debug\net8.0\ShipHero.SDK.AssemblyInfo.cs
+C:\Vault\Development\ShipHero\obj\Debug\net8.0\ShipHero.SDK.csproj.CoreCompileInputs.cache
